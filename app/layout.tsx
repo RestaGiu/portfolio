@@ -10,7 +10,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://restagiuliano.com"),
+  metadataBase: new URL("https://restagiu.com"),
   title: "Resta Giuliano — Product Designer",
   description: "Product Designer specialized in B2B SaaS, PropTech, Product Discovery, Data and AI. Designing complex products and making them simpler.",
   alternates: { canonical: "/" },
@@ -30,7 +30,7 @@ const personJsonLd = {
   name: profile.name,
   jobTitle: profile.role,
   description: profile.summary,
-  url: "https://restagiuliano.com",
+  url: "https://restagiu.com",
   ...(contact.linkedin ? { sameAs: [contact.linkedin] } : {}),
 };
 
