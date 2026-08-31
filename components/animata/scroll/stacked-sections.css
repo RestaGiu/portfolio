@@ -1,0 +1,19 @@
+[data-stacked-content][data-stacked-covered] {
+  transform-origin: 50% 0%;
+}
+
+@media (max-width: 720px) {
+  [data-stacked-deck][data-stacked-mobile-disabled] {
+    padding-bottom: 0 !important;
+  }
+
+  [data-stacked-deck][data-stacked-mobile-disabled] [data-stacked-card] {
+    position: relative !important;
+    top: auto !important;
+    padding-top: 0 !important;
+  }
+
+  [data-stacked-deck][data-stacked-mobile-disabled] [data-stacked-content] {
+    transform: none !important;
+  }
+}
