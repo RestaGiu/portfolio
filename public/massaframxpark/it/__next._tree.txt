@@ -1,0 +1,3 @@
+:HL["/massaframxpark/_next/static/chunks/26aqhjm__ibuv.css","style"]
+:HL["/massaframxpark/_next/static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"it","siblings":["opengraph-image"]},"prefetchHints":4208,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_f4wzw542VmYwB3bQ8fF5"}
