@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+4:"static/chunks/437-402ebe7fee266a74.js"
+5:"static/chunks/886-c676dd0150b0ff10.js"
+6:"static/chunks/app/page-fd2581957c7f23a5.js"
+7:I[8437,["437","$4","886","$5","974","$6"],"Image"]
+8:"static/chunks/app/not-found-b4ee80770d9bad33.js"
+9:I[8500,["437","$4","345","$8"],""]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[484,[],"$14"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+18:I[6869,[],"IconMark"]
+:HL["/sfizi-di-mare/_next/static/css/aadb71953d96714f.css","style"]
+:HL["/sfizi-di-mare/_next/static/css/83add8b7732dd7cc.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","$L7",null,{"className":"brand-mark","src":"/sfizi-di-mare/images/brand/logo-320.webp","alt":"Sfizi di mare: polpo chef","width":160,"height":160,"unoptimized":true}],["$","h1",null,{"children":"Pagina non trovata"}],["$","p",null,{"children":"Questa pagina non è nel menu."}],["$","$L9",null,{"className":"button button--primary","href":"/","children":"Torna a casa"}]]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sfizi-di-mare/_next/static/css/aadb71953d96714f.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/sfizi-di-mare/_next/static/css/83add8b7732dd7cc.css","precedence":"next"}]],["$","html",null,{"lang":"it","className":"__variable_33b9c8 __variable_a01b7c","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"not-found","children":[["$","$L7",null,{"className":"brand-mark","src":"/sfizi-di-mare/images/brand/logo-320.webp","alt":"Sfizi di mare: polpo chef","width":160,"height":160,"unoptimized":true}],["$","h1",null,{"children":"Pagina non trovata"}],["$","p",null,{"children":"Questa pagina non è nel menu."}],["$","$L9",null,{"className":"button button--primary","href":"/","children":"Torna a casa"}]]}],[]]}]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#071C25"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sfizi di mare"}],["$","meta","1",{"name":"application-name","content":"Sfizi di mare"}],["$","link","2",{"rel":"manifest","href":"/sfizi-di-mare/manifest.webmanifest"}],["$","meta","3",{"property":"og:title","content":"Sfizi di mare"}],["$","meta","4",{"property":"og:image","content":"https://restagiu.com/sfizi-di-mare/sfizi-di-mare/opengraph-image?9568ed715bd82427"}],["$","meta","5",{"property":"og:image:type","content":"image/png"}],["$","meta","6",{"property":"og:image:width","content":"1200"}],["$","meta","7",{"property":"og:image:height","content":"630"}],["$","meta","8",{"property":"og:image:alt","content":"Sfizi di mare, Marina di Ginosa"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Sfizi di mare"}],["$","meta","11",{"name":"twitter:image","content":"https://restagiu.com/sfizi-di-mare/sfizi-di-mare/opengraph-image?9568ed715bd82427"}],["$","meta","12",{"name":"twitter:image:alt","content":"Sfizi di mare, Marina di Ginosa"}],["$","meta","13",{"name":"twitter:image:type","content":"image/png"}],["$","meta","14",{"name":"twitter:image:width","content":"1200"}],["$","meta","15",{"name":"twitter:image:height","content":"630"}],["$","link","16",{"rel":"icon","href":"/sfizi-di-mare/icon"}],["$","link","17",{"rel":"apple-touch-icon","href":"/sfizi-di-mare/apple-icon"}],["$","$L18","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"bmItAOvcYsAeLPiZ5Mh-6"}
+12:null
+b:300
+1b:true
+b:C
+1a:0
+d:"$undefined"
+a:"$undefined"
+19:"$undefined"
+13:"$undefined"
